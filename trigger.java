@@ -1,0 +1,3 @@
+trigger{
+how you doin
+}
