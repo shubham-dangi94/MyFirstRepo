@@ -1,3 +1,4 @@
 go to cmd
 type git add file name
 git commit -m
+made changes from local child branch
